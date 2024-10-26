@@ -796,7 +796,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ELA8ol7ZBiI5QSAdpIB9-184" value="CommunityComment" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="800" width="180" height="240" as="geometry" />
+          <mxGeometry x="1250" y="800" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="iYHoe1T9EmmZ7hiJWZLG-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ELA8ol7ZBiI5QSAdpIB9-184">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -837,21 +837,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEyiiT0VDP4cp54VEfVw-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="ELA8ol7ZBiI5QSAdpIB9-184" vertex="1">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hEyiiT0VDP4cp54VEfVw-24" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="hEyiiT0VDP4cp54VEfVw-23" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hEyiiT0VDP4cp54VEfVw-25" value="bookmark" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="hEyiiT0VDP4cp54VEfVw-23" vertex="1">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ELA8ol7ZBiI5QSAdpIB9-188" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="ELA8ol7ZBiI5QSAdpIB9-184" vertex="1">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ELA8ol7ZBiI5QSAdpIB9-189" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="ELA8ol7ZBiI5QSAdpIB9-188" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -864,7 +851,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ELA8ol7ZBiI5QSAdpIB9-191" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="ELA8ol7ZBiI5QSAdpIB9-184" vertex="1">
-          <mxGeometry y="180" width="180" height="30" as="geometry" />
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ELA8ol7ZBiI5QSAdpIB9-192" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="ELA8ol7ZBiI5QSAdpIB9-191" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -877,7 +864,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hEyiiT0VDP4cp54VEfVw-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="ELA8ol7ZBiI5QSAdpIB9-184" vertex="1">
-          <mxGeometry y="210" width="180" height="30" as="geometry" />
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hEyiiT0VDP4cp54VEfVw-18" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="hEyiiT0VDP4cp54VEfVw-17" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1163,12 +1150,13 @@
         <mxCell id="hEyiiT0VDP4cp54VEfVw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ELA8ol7ZBiI5QSAdpIB9-25" target="ELA8ol7ZBiI5QSAdpIB9-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hEyiiT0VDP4cp54VEfVw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ELA8ol7ZBiI5QSAdpIB9-239" target="hEyiiT0VDP4cp54VEfVw-23" edge="1">
+        <mxCell id="hEyiiT0VDP4cp54VEfVw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ELA8ol7ZBiI5QSAdpIB9-239" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1480" y="635" />
               <mxPoint x="1480" y="930" />
             </Array>
+            <mxPoint x="1427.8400000000001" y="929.5700000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hEyiiT0VDP4cp54VEfVw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ELA8ol7ZBiI5QSAdpIB9-169" target="ELA8ol7ZBiI5QSAdpIB9-197" edge="1">
